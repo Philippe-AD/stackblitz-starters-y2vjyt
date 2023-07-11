@@ -12,6 +12,7 @@ export default function Home() {
         <h1 className={styles.title}>
          LEARN to <a href="https://nextjs.org">Next.js!</a>
         </h1>
+        <h3>By Philippe</h3>
 
         <p className={styles.description}>
           Get started by editing{' '}
